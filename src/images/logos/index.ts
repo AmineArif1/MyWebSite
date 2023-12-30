@@ -15,6 +15,7 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import RamLogo from "./ram.svg";
 
 export {
   ConsultlyLogo,
@@ -34,4 +35,5 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  RamLogo,
 };
